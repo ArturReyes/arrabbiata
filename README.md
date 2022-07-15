@@ -8,4 +8,4 @@ An exercise in what makes an MVP, CI / CD, using React / hooks in an elegant way
 
 Wrote my first custom react hook.
 
-Try it at : https://nehahirve.github.io/tommy-toes
+Try it at : https://arrabbiata.netlify.app
