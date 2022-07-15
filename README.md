@@ -1,6 +1,5 @@
-# Tommy Toes
+# Arrabbiata
 
-A Hyper Island student brief.
 
 Minimalist pomodoro timer.
 
